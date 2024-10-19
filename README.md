@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Logan Dresel</h1>
 <h3 align="center">I like SCP, robotics, and programming</h3>
 
-https://github-readme-stats.vercel.app/api?username=coollogan876&show_icons=true&theme=radical
+![Logan Dresel's stats](https://github-readme-stats.vercel.app/api?username=coollogan876&show_icons=true&theme=radical)
 
 - I’m currently working on [High Stakes](https://github.com/9204A-B/HighStakes)
 
@@ -13,6 +13,7 @@ https://github-readme-stats.vercel.app/api?username=coollogan876&show_icons=true
 <p align="left">
 <a href="https://www.youtube.com/c/coollogan876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coollogan876" height="30" width="40" /></a>
 </p>
+
 [![Discord](https://img.shields.io/discord/1071781134033236028?label=Discord&color=%230d98ba)](https://discord.gg/E86dwhPCXj)
 
 <h3 align="left">Languages and Tools:</h3>
