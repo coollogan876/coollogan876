@@ -7,7 +7,7 @@
 
 - I've Google Translated SCP: Secret Laboratory [Secret Laboratory Google Translate Edition](https://github.com/The-Anomalous-Zone/SLGTE)
 
-- Random plugin I've made [NNN](https://github.com/The-Anomalous-Zone/NNN)
+- Funny code I've made [Windows Calculator But Always One Off](https://github.com/coollogan876/calculator)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
