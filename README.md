@@ -16,6 +16,8 @@
 Channel</a>
   
 <a href="https://www.youtube.com/@TheChaoticProgrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="The Chaotic Programmer" height="30" width="40" />Programming Channel</a>
+
+<a href="https://the.anomalouszone.net" target="blank"><img align="center" src="https://secret.anomalouszone.net/media/AnomalousZoneLogo.png" alt="My Website" height="30" width="30" />My Website</a>
 </p>
 
 [![Discord](https://img.shields.io/discord/1071781134033236028?label=Discord&color=%230d98ba)](https://discord.gg/E86dwhPCXj)
