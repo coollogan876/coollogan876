@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Logan Dresel</h1>
+<h3 align="center">Class of 2029 at UTD for Electrical Engineering</h3>
 <h3 align="center">I like SCP, robotics, and programming</h3>
 
 ![Logan Dresel's stats](https://github-readme-stats.vercel.app/api?username=coollogan876&show_icons=true&theme=radical)
 
-- I’m currently working on [High Stakes](https://github.com/9204A-B/HighStakes)
+- Some of my biggest projects are [VEX Robotics programming for High Stakes](https://github.com/9204A-B/HighStakes), [SCP: SL programming](https://github.com/The-Anomalous-Zone/AnomalousZonePlugin), and my [independent study project](https://github.com/coollogan876/ISP) for high school
 
 - I've Google Translated SCP: Secret Laboratory [Secret Laboratory Google Translate Edition](https://github.com/The-Anomalous-Zone/SLGTE)
 
